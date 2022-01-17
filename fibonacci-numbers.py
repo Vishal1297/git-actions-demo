@@ -1,5 +1,6 @@
 # Get fibonaaci numbers
 
+
 def fibonacci(n):
     if n == 0:
         return 0
